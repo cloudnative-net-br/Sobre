@@ -9,4 +9,13 @@ Overview sobre a organização
 
 
 ## [demo-shell](https://github.com/docker-definitivo/demo-shell/)
+Um teste com dockerfile e um único arquivo sh para exemplificar o que podemos fazer com as imagens.
 
+## [jenkins-teste-ci](https://github.com/docker-definitivo/jenkins-teste-ci/)
+Exemplo de jenkinsfile isolado, do zero.
+
+## [kubernetes](https://github.com/docker-definitivo/kubernetes/)
+Passo a passo para o setup do cluster kubernetes.
+
+
+https://github.com/docker-definitivo/kubernetes
