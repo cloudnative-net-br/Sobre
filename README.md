@@ -53,19 +53,3 @@ Conteúdo do módulo **Nosso Primeiro Servidor na nuvem**.
 * * SQL Server
 * NGINX
 
-
-## [texto](https://github.com/docker-definitivo/projeto/)
-descriçãop
-
-## [texto](https://github.com/docker-definitivo/projeto/)
-descriçãop
-
-## [texto](https://github.com/docker-definitivo/projeto/)
-descriçãop
-
-## [texto](https://github.com/docker-definitivo/projeto/)
-descriçãop
-
-
-
-https://github.com/docker-definitivo/kubernetes
