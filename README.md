@@ -32,8 +32,8 @@ Aplicação ASP .NET Core que usa o [Squidex](https://squidex.io/) como backend,
 ## [jornada-gago-io](https://github.com/docker-definitivo/jornada-gago-io)
 Aplicação ASP .NET Core do Jornada.gago.io que trabalha que trabalha com autenticação e autorização com Keycloak e ASP.NET Core 5.
 
-## [texto](https://github.com/docker-definitivo/projeto/)
-descriçãop
+## [RabbitMQProfessionalConsumer](https://github.com/docker-definitivo/RabbitMQProfessionalConsumer)
+Aplicação ASP.NET Core do tipo Worker Service dedicada à mostrar como trabalhar com RabbitMQ usando o máximo de resoliência e seus recursos. Essa aplicação foi criada durante a masterclass de RabbitMQ e agora é usada no Docker Definitivo para ilustrar as formas de uso do RabbitMQ, incluindo todo o setup para não perder mensagens, inclusive com fallback e retry.
 
 ## [texto](https://github.com/docker-definitivo/projeto/)
 descriçãop
