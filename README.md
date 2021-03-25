@@ -35,14 +35,24 @@ Aplicação ASP .NET Core do Jornada.gago.io que trabalha que trabalha com auten
 ## [RabbitMQProfessionalConsumer](https://github.com/docker-definitivo/RabbitMQProfessionalConsumer)
 Aplicação ASP.NET Core do tipo Worker Service dedicada à mostrar como trabalhar com RabbitMQ usando o máximo de resoliência e seus recursos. Essa aplicação foi criada durante a masterclass de RabbitMQ e agora é usada no Docker Definitivo para ilustrar as formas de uso do RabbitMQ, incluindo todo o setup para não perder mensagens, inclusive com fallback e retry.
 
-## [texto](https://github.com/docker-definitivo/projeto/)
-descriçãop
+## [payment](https://github.com/docker-definitivo/payment)
+Conteúdo do módulo **Nosso Primeiro Servidor na nuvem**.
 
-## [texto](https://github.com/docker-definitivo/projeto/)
-descriçãop
+## [payment-external](https://github.com/docker-definitivo/payment-external)
+Conteúdo do módulo **Nosso Primeiro Servidor na nuvem**.
 
-## [texto](https://github.com/docker-definitivo/projeto/)
-descriçãop
+## [ProductionConfiguration](https://github.com/docker-definitivo/ProductionConfiguration)
+* ELK Stack
+* * ElasticSearch
+* * LogStash
+* * Kibana
+* * RabbitMQ
+* * Metricbeat
+* ProGet
+* * ProGet Server
+* * SQL Server
+* NGINX
+
 
 ## [texto](https://github.com/docker-definitivo/projeto/)
 descriçãop
