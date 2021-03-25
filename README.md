@@ -15,7 +15,16 @@ Um teste com dockerfile e um único arquivo sh para exemplificar o que podemos f
 Exemplo de jenkinsfile isolado, do zero.
 
 ## [kubernetes](https://github.com/docker-definitivo/kubernetes/)
+* Passo a passo para o setup do cluster kubernetes
+* Setup do NGINX Ingress Controller
+* Setup do Kong Ingress Controller (sob o NGINX Ingress Controller)
+* Dashboard atualizado com token de expiração diário
+* Deploy do Echo Server no default para análise
+* Deploy completo do Hub de Eventos
+
+## [kubernetes](https://github.com/docker-definitivo/kubernetes/)
 Passo a passo para o setup do cluster kubernetes.
+
 
 
 https://github.com/docker-definitivo/kubernetes
