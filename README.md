@@ -22,8 +22,39 @@ Exemplo de jenkinsfile isolado, do zero.
 * Deploy do Echo Server no default para análise
 * Deploy completo do Hub de Eventos
 
-## [kubernetes](https://github.com/docker-definitivo/kubernetes/)
-Passo a passo para o setup do cluster kubernetes.
+## [LinuxLifeCycle](https://github.com/docker-definitivo/LinuxLifeCycle)
+Aplicação **ASP.NET Core** do tipo **Worker Services** para demonstrar o ciclo de vida em para que possa ser implementado graceful shutdown.
+
+
+## [texto](https://github.com/docker-definitivo/projeto/)
+descriçãop
+
+## [texto](https://github.com/docker-definitivo/projeto/)
+descriçãop
+
+## [texto](https://github.com/docker-definitivo/projeto/)
+descriçãop
+
+## [texto](https://github.com/docker-definitivo/projeto/)
+descriçãop
+
+## [texto](https://github.com/docker-definitivo/projeto/)
+descriçãop
+
+## [texto](https://github.com/docker-definitivo/projeto/)
+descriçãop
+
+## [texto](https://github.com/docker-definitivo/projeto/)
+descriçãop
+
+## [texto](https://github.com/docker-definitivo/projeto/)
+descriçãop
+
+## [texto](https://github.com/docker-definitivo/projeto/)
+descriçãop
+
+## [texto](https://github.com/docker-definitivo/projeto/)
+descriçãop
 
 
 
