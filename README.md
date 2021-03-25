@@ -26,11 +26,11 @@ Exemplo de jenkinsfile isolado, do zero.
 Aplicação **ASP.NET Core** do tipo **Worker Services** para demonstrar o ciclo de vida em para que possa ser implementado graceful shutdown.
 
 
-## [texto](https://github.com/docker-definitivo/projeto/)
-descriçãop
+## [ocodigo.net](https://github.com/docker-definitivo/ocodigo.net)
+Aplicação ASP .NET Core que usa o [Squidex](https://squidex.io/) como backend, servindo páginas com o mínimo de esforço em views e controllers genéricos.
 
-## [texto](https://github.com/docker-definitivo/projeto/)
-descriçãop
+## [jornada-gago-io](https://github.com/docker-definitivo/jornada-gago-io)
+Aplicação ASP .NET Core do Jornada.gago.io que trabalha que trabalha com autenticação e autorização com Keycloak e ASP.NET Core 5.
 
 ## [texto](https://github.com/docker-definitivo/projeto/)
 descriçãop
